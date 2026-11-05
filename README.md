@@ -24,7 +24,7 @@ O conteúdo para publicação é gerado em `dist/` e pode ser hospedado em Verce
 
 ## 2. Conteúdo da landing
 
-- Hero com a fotografia conceitual do Alexandre, logo premium, promessa de valor e CTAs.
+- Hero com a fotografia do Alexandre, logo premium, promessa de valor e CTAs.
 - Barra de pilares: branding, CRM e ERP, IA, vendas e comunidade.
 - Dor do empresário e diferenciais do ecossistema.
 - Posicionamento da participação do Alexandre (webinars coletivos, sujeito a formalização).
@@ -37,7 +37,7 @@ O conteúdo para publicação é gerado em `dist/` e pode ser hospedado em Verce
 
 ### Sobre as imagens
 
-`public/assets/alexandre-portrait.webp` é um retrato **conceitual gerado com base nas duas imagens de referência** fornecidas pelo usuário. Use apenas com a autorização de imagem e de participação necessária. O monograma recortado vem do logo aprovado na conversa. Essas imagens não são documentação fotográfica de contrato/parceria efetivos.
+`public/assets/alexandre-portrait.webp` é o retrato enviado para a página, com o fundo de estúdio removido. Use apenas com a autorização de imagem e de participação necessária. O monograma recortado vem do logo aprovado na conversa. Essas imagens não são documentação fotográfica de contrato/parceria efetivos.
 
 ## 3. Conectar o canal de conversão
 

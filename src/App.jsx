@@ -93,7 +93,7 @@ function Hero({ openContact }) {
       <div className="hero-person">
         <div className="person-crown-arc" aria-hidden="true" />
         <div className="person-initial" aria-hidden="true">M</div>
-        <img className="person-photo" src={`${ASSETS}alexandre-portrait.webp`} alt="Retrato conceitual de Alexandre Correa em traje executivo, de braços cruzados" fetchPriority="high" />
+        <img className="person-photo" src={`${ASSETS}alexandre-portrait.webp`} alt="Alexandre Correa em traje executivo, de braços cruzados" fetchPriority="high" />
         <div className="person-identity"><span className="person-overline">EXPERIÊNCIA EM MARCAS E POSICIONAMENTO</span><strong>Alexandre Correa</strong><span>Encontros e visão empresarial*</span></div>
       </div>
     </div>
@@ -128,7 +128,7 @@ function AuthoritySection({openContact}) {
   return <section id="alexandre" className="section authority-section">
     <div className="container authority-layout">
       <div className="authority-photo-side" data-reveal>
-        <div className="authority-image-frame"><div className="authority-photo-glow"/><img src={`${ASSETS}alexandre-portrait.webp`} alt="Retrato conceitual de Alexandre Correa" loading="lazy"/></div>
+        <div className="authority-image-frame"><div className="authority-photo-glow"/><img src={`${ASSETS}alexandre-portrait.webp`} alt="Alexandre Correa" loading="lazy"/></div>
         <div className="authority-quote"><span>“</span><p>Uma marca forte é construída com estratégia, consistência e posicionamento.</p><small>PRINCÍPIO DA COMUNIDADE</small></div>
       </div>
       <div className="authority-content" data-reveal>
